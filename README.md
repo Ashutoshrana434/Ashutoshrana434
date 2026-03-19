@@ -12,16 +12,15 @@
 ⚡ I enjoy solving real-world problems using data  
 
 ---
-
 ## 🛠️ Tech Stack
-- 💻 Languages: Python, SQL  
+
+- 💻 Languages: Python, SQL, PostgreSQL  
 - 📊 Data Analysis: Pandas, NumPy, Matplotlib, Seaborn  
-- 📈 Visualization: Power BI, Tableau  
-- ☁️ Cloud: AWS  
-- 🧠 Machine Learning: Scikit-learn  
+- 📈 Visualization: Power BI  
+- ☁️ Cloud: AWS, Streamlit, Flask  
+- 🧠 Machine Learning: Scikit-learn, TensorFlow, Keras, PyTorch  
 
 ---
-
 ## 📂 Featured Projects
 🔹 Movie Review Sentiment Analyzer  
 🔹 Customer Segmentation & Visualization  
@@ -29,7 +28,6 @@
 🔹 Credit Risk Assessment   
 
 ---
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ashutoshrana434&show_icons=true&theme=tokyonight" />
@@ -37,7 +35,6 @@
 </p>
 
 ---
-
 ## 🌐 Connect with Me
 - 💼 LinkedIn: [https://www.linkedin.com/in/YOUR-LINKEDIN  ](https://www.linkedin.com/in/ashutosh-rana-4a668a22b/)
 - 📧 Email: reachtoashurana@gmail.com
