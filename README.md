@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg" width="700"/>
-</p>
+
+  <img width="1079" height="411" alt="image" src="https://github.com/user-attachments/assets/69dab4ce-9e41-487f-8c94-374624a45ac6" />
 <h1 align="center">Hi 👋, I'm Ashutosh Rana</h1>
 <h3 align="center">Data Analyst | Data Science Enthusiast</h3>
 
@@ -40,5 +39,5 @@
 ---
 
 ## 🌐 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN  
-- 📧 Email: your-email@example.com
+- 💼 LinkedIn: [https://www.linkedin.com/in/YOUR-LINKEDIN  ](https://www.linkedin.com/in/ashutosh-rana-4a668a22b/)
+- 📧 Email: reachtoashurana@gmail.com
